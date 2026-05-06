@@ -1,3 +1,7 @@
+# MY VERY FIRST GITHUB PROJECT , VERY BASIC BUT IT IS KINDA CLOSE TO MY HEART ( FUN FACT : I BUILT AND DEPLOYED THIS WHOLE PROJECT FROM MY PHONE WITHOUT A LAPTOP
+
+
+
 # Personal Expense Tracker
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
